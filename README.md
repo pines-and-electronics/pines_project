@@ -2,7 +2,7 @@
 
 ## Components
 
-### Blockchain smart contract
+### 1) Blockchain smart contract
 
 *Running in Rinkeby Ethereum testnet* 
 
@@ -29,7 +29,19 @@ contract CarController {
 }
 ```
 
-### Command listener
+### 2) DAPP frontent
+
+*Running in a laptop*
+
+Has following buttons:
+* Joystick
+  * sendCommand()
+* Snapshot
+  * sendCommand()
+
+
+
+### 3) Command listener
 
 *Running in laptop*
 
@@ -41,8 +53,7 @@ Command listener listens to the following strings:
 * 'linear'
 * 'steer'
 
-Command listen
-        
+
 
 ## Proof of concept
 
