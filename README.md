@@ -39,8 +39,6 @@ Has following buttons:
 * Snapshot
   * sendCommand()
 
-
-
 ### 3) Command listener
 
 *Running in laptop*
@@ -52,8 +50,6 @@ Command listener listens to the following strings:
 * 'snapshot'
 * 'linear'
 * 'steer'
-
-
 
 ## Proof of concept
 
