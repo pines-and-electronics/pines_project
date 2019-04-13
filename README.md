@@ -2,7 +2,7 @@
 
 ## Components
 
-### 1) Blockchain smart contract
+### 1) Blockchain smart contract (the **DAO**)
 
 *Running in Rinkeby Ethereum testnet* 
 
